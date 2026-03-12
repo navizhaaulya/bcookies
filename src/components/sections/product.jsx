@@ -51,13 +51,13 @@ const products = [
     name: "Thumbprint Berry",
     image: berry,
     price: "Rp 25.000",
-    desc: "Thin and crispy butter cookies.",
+    desc: "Buttery cookies filled with sweet strawberry jam.",
   },
   {
     name: "Thumbprint Choco",
     image: chocojam,
     price: "Rp 30.000",
-    desc: "Thin and crispy butter cookies.",
+    desc: "Buttery cookies filled with smooth chocolate filling.",
   },
   {
     name: "Sagu Keju",
@@ -69,7 +69,7 @@ const products = [
     name: "Semprit",
     image: semprit,
     price: "Rp 25.000",
-    desc: "Classic butter cookies with a soft texture.",
+    desc: "Classic buttery Indonesian cookies with a soft",
   },
   {
     name: "Almond Cookies",
@@ -81,19 +81,19 @@ const products = [
     name: "Choco Cornflake",
     image: choco,
     price: "Rp 30.000",
-    desc: "Classic butter cookies with a soft texture.",
+    desc: "Crunchy cornflakes coated in rich, sweet chocolate.",
   },
   {
     name: "Peanut Cookies",
     image: kacang,
     price: "Rp 25.000",
-    desc: "Classic butter cookies with a soft texture.",
+    desc: "Buttery cookies with a rich roasted peanut flavor.",
   },
   {
     name: "Palm Cheese",
     image: palm,
     price: "Rp 35.000",
-    desc: "Classic butter cookies with a soft texture.",
+    desc: "Buttery cookies topped with savory grated cheese and a hint of sweetness.",
   },
   {
     name: "Hampers 1",
