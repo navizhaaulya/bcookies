@@ -10,7 +10,7 @@ import ProductCard from "../components/elements/ProductCard";
 import nastar from "../components/assets/nastar.png";
 import kastengel from "../components/assets/kastengel.png";
 import salju from "../components/assets/salju.png";
-import TestimonialSection from "../components/sections/Testimonial";
+import TestimonialSection from "../components/sections/testimonial.jsx";
 import { motion } from "framer-motion";
 
 const topProducts = [
